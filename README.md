@@ -20,7 +20,7 @@
 	brew install git
 	brew update
 
-Git 是 Rails 标配的版本控制工具，没有它后很东东都安装不好
+Git 是 Rails 标配的版本控制工具，没有它后很多东东都安装不好
 
 ###  安装 gcc
 
@@ -71,7 +71,7 @@ RVM 是在 Mac 下使用的比较多的一个工具：
 
 ## 安装 Ruby
 
-执行下面的命令会自动把 uby 安装好：
+执行下面的命令会自动把 Ruby 安装好：
 
 	rvm install ruby-2.0.0-p451
 
